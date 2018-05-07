@@ -1,6 +1,6 @@
 # Table Flipper (╯°□°）╯︵ ┻━┻
 
-TableFlipper is a useless package that prepends the table flipper to Elixir
+TableFlipper is a useless package that prepends a table flip to Elixir
 error logs.
 
 Inspired by [iridakos/table_flipper](https://github.com/iridakos/table_flipper).
